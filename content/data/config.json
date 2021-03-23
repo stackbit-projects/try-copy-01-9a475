@@ -27,7 +27,7 @@
                 "label": "Sponsoring",
                 "url": "/advertising",
                 "style": "link",
-                "has_icon": true,
+                "has_icon": false,
                 "icon": "youtube",
                 "icon_position": "right"
             }
