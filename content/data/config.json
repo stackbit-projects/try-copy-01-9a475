@@ -20,7 +20,8 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "primary"
+                "style": "link",
+                "has_icon": false
             },
             {
                 "label": "Sponsoring",
