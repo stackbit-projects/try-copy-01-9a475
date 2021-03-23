@@ -28,7 +28,8 @@
                 "url": "/advertising",
                 "style": "link",
                 "has_icon": true,
-                "icon": "youtube"
+                "icon": "youtube",
+                "icon_position": "right"
             }
         ],
         "has_secondary_nav": true,
