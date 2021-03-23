@@ -29,7 +29,7 @@
                 "style": "link",
                 "has_icon": true,
                 "icon": "youtube",
-                "icon_position": "left"
+                "icon_position": "center"
             }
         ],
         "has_secondary_nav": true,
