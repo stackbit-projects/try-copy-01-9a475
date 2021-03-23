@@ -4,9 +4,10 @@ sections:
   - type: hero_section
     title: Welcome to DIYJam Podcast
     subtitle: Optional hero section subtitle
-    content: >
+    content: >+
       A podcast for Web developers interested in building Jamstack websites.
-      Hosted by Miles Tone.SCHIAO BELO
+      Hosted by Miles Tone.
+
     actions:
       - label: Subscribe to Podcast
         url: /thank-you
