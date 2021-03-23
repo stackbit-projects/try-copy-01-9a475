@@ -20,7 +20,7 @@
             {
                 "label": "About",
                 "url": "/about",
-                "style": "link",
+                "style": "secondary",
                 "has_icon": false
             },
             {
