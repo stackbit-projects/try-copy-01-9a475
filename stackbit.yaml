@@ -197,7 +197,7 @@ models:
       - type: boolean
         name: has_primary_nav
         label: Enable primary navigation menu
-        description: Display the primary navigation menu
+        description: Disply the primary navigation menu
         default: true
       - type: string
         name: primary_nav_title
